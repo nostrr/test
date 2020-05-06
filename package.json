@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/nostrr/test/issues"
   },
-  "homepage": "https://github.com/nostrr/test#readme"
+  "homepage": "https://github.com/nostrr/test#readme",
+  "dependencies": {
+    "jquery": "^3.5.1"
+  }
 }
